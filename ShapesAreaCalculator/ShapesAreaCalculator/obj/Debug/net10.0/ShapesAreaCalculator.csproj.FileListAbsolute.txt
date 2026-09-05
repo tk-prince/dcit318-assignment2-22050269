@@ -1,0 +1,14 @@
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.exe
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.deps.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.runtimeconfig.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.pdb
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.AssemblyInfo.cs
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\refint\ShapesAreaCalculator.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.pdb
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.genruntimeconfig.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ref\ShapesAreaCalculator.dll
