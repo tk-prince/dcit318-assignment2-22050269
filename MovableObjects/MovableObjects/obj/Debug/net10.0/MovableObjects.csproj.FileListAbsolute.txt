@@ -1,0 +1,14 @@
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.exe
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.deps.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.runtimeconfig.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.pdb
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.AssemblyInfo.cs
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\obj\Debug\net10.0\refint\MovableObjects.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.pdb
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.genruntimeconfig.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\MovableObjects\MovableObjects\obj\Debug\net10.0\ref\MovableObjects.dll
