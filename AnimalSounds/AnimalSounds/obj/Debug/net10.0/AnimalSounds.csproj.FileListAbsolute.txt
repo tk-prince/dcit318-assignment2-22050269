@@ -1,0 +1,14 @@
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\bin\Debug\net10.0\AnimalSounds.exe
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\bin\Debug\net10.0\AnimalSounds.deps.json
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\bin\Debug\net10.0\AnimalSounds.runtimeconfig.json
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\bin\Debug\net10.0\AnimalSounds.dll
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\bin\Debug\net10.0\AnimalSounds.pdb
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\obj\Debug\net10.0\AnimalSounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\obj\Debug\net10.0\AnimalSounds.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\obj\Debug\net10.0\AnimalSounds.AssemblyInfo.cs
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\obj\Debug\net10.0\AnimalSounds.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\obj\Debug\net10.0\AnimalSounds.dll
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\obj\Debug\net10.0\refint\AnimalSounds.dll
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\obj\Debug\net10.0\AnimalSounds.pdb
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\obj\Debug\net10.0\AnimalSounds.genruntimeconfig.cache
+C:\Users\princ\source\repos\AnimalSounds\AnimalSounds\obj\Debug\net10.0\ref\AnimalSounds.dll
